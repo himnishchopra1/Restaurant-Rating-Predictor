@@ -29,7 +29,7 @@ Results:
 These are some interesting insights found from exploring this data that restaurant owners can consider when thinking about how they should run their restaurant.
 ![image](https://user-images.githubusercontent.com/91419941/188505531-193bafed-ef7f-4416-93c7-f13ec270902e.png)
 
-Restuaurant owneres can consider this distribution of the cost of meals across the restaurants of Bangalore when deciding what they should charge for their own meals.
+Restuaurant owners can consider this distribution of the cost of meals across the restaurants of Bangalore when deciding what they should charge for their own meals.
 
 ![image](https://user-images.githubusercontent.com/91419941/188505979-5a65999a-bae4-4398-8bf3-1e3ead19f645.png)
 
