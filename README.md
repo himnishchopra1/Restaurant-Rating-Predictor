@@ -22,7 +22,7 @@ Methods Used:
 - Model Building
 
 #### Problem:
-The aim of this project was to explore the different features of the dataset in order to determine the different trends and see explore the characteristics of Bangalores highest rated restaurants. This imformation would then be used to produce a machine learning model that can predict the rating a restaurant would have if they enter information about their restaurant such as the price of a meal, restaurant type, location, and the menu items availible.
+The aim of this project was to explore the different features of the dataset in order to determine the different trends and explore the characteristics of Bangalores highest rated restaurants. This imformation would then be used to produce a machine learning model that can predict the rating a restaurant would have if they enter information about their restaurant such as the price of a meal, restaurant type, location, and the menu items availible.
 
 
 #### Results:
