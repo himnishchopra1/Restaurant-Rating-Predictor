@@ -8,7 +8,7 @@ Skills Demonstrated:
 - Pandas
 - Numpy
 - Matplotlib
-- Pyploy
+- Pyplot
 - Seaborn
 - Linear Regression
 - Logistic Regression
