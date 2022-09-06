@@ -41,7 +41,7 @@ The Coefficient of Determination-R2 score was used to evaluate the models built 
 
 The Extra-Trees Regressor resulted in a 92.6 % R2 score meaning 92.6 % of the variability of the target can be explained by the model.
 
-Based on the analysis and model it was determined that the most important features that a reatuarant must consider when they want to maximize reataurant rating is the cost of dining for two people, the dishes offered, and location.
+Based on the analysis and model it was determined that the most important features that a reatuarant must consider when they want to maximize restaurant rating is the cost of dining for two people, the dishes offered, and location.
 
 
 
