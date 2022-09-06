@@ -27,6 +27,7 @@ The aim of this project was to explore the different features of the dataset in 
 
 #### Results:
 These are some interesting insights found from exploring this data that restaurant owners can consider when thinking about how they should run their restaurant.
+
 ![image](https://user-images.githubusercontent.com/91419941/188505531-193bafed-ef7f-4416-93c7-f13ec270902e.png)
 
 Restuaurant owners can consider this distribution of the cost of meals across the restaurants of Bangalore when deciding what they should charge for their own meals.
